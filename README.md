@@ -25,10 +25,12 @@ Exclusive access ensures that only family members can view and interact with the
 Event Sharing:
 
 Share and track events like birthdays, reunions, and milestones within your family group.
-Real-Time Chat:
+
+**Real-Time Chat:**
 
 Communicate instantly with family members using the integrated chat feature.
-Enhanced Privacy:
+
+**Enhanced Privacy:**
 
 Securely stores data, accessible only to authorized family members.
 
