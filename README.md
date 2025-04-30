@@ -2,7 +2,7 @@ FamConnect
 -----------
 
 # psm
-Personal social media
+Personal social media 
 
 -----------
 **🚀 FamConnect – A Social Media Platform for Families 🌐**
